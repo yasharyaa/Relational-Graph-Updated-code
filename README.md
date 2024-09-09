@@ -39,7 +39,8 @@ install the latest version from the website:
 
 ```bash
 conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
-``` 
+```
+- You have to replace the view(-1) with reshape(-1) in metrices.py.
 
 **Clone graph2nn repository and install:**
 
