@@ -35,9 +35,10 @@ conda activate graph2nn
 
 **Pytorch:**
 Manually install [PyTorch](https://pytorch.org/) with **CUDA** support (CPU version is not supported). 
-We have verified under PyTorch 1.4.0 and torchvision 0.5.0. For example:
+install the latest version from the website:
+
 ```bash
-pip install torch==1.4.0 torchvision==0.5.0
+conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
 ``` 
 
 **Clone graph2nn repository and install:**
