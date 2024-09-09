@@ -1,5 +1,5 @@
 # Relational-Graph-Updated-code
-This repository contains the from the paper: "Graph Structure of Neural Networks", , by Jiaxuan You, Jure Leskovec, Kaiming He, Saining Xie, ICML 2020.
+This repository contains the from the paper: "Graph Structure of Neural Networks (https://arxiv.org/abs/2007.06559)", by Jiaxuan You, Jure Leskovec, Kaiming He, Saining Xie, ICML 2020.
 
 Introduction
 TLDR: We study the architecture of neural networks through the lens of network science, and discover that good neural networks are alike in terms of their underlying graph structure.
